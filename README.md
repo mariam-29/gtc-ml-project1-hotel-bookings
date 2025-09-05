@@ -11,4 +11,13 @@ This project focuses on transforming a raw hotel bookings dataset (`hotel_bookin
 
 ## Prerequisites
 - Python 3.8+ (tested with 3.12)
-- Libraries: Install via `pip install -r requirements.txt` (create this file with the following):
+- Libraries: Install via `pip install -r requirements.txt` 
+
+Jupyter Notebook or JupyterLab for running the analysis.
+
+## Installation
+1. Clone the repository
+2. Install dependencies --> pip install -r requirements.txt
+3. Open `gtc_ml_project1.ipynb`.
+4. Run cells sequentially to perform EDA, cleaning, feature engineering.
+5. Outputs include visualizations and cleaned dataset saved as CSV file.
