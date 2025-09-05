@@ -20,4 +20,3 @@ Jupyter Notebook or JupyterLab for running the analysis.
 2. Install dependencies --> pip install -r requirements.txt
 3. Open `gtc_ml_project1.ipynb`.
 4. Run cells sequentially to perform EDA, cleaning, feature engineering.
-5. Outputs include visualizations and cleaned dataset saved as CSV file.
